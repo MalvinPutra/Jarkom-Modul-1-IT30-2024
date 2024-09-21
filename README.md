@@ -8,6 +8,30 @@
 
 <hr>
 
+1. ILEGAL BREAKTOUGH
+
+yang pertama yaitu mencari ip address dari korban 
+
+![image](https://github.com/user-attachments/assets/21c46481-2416-4482-9094-7ed2f10a13d1)
+
+selanjutnya yaitu port dari web server tersebut
+
+![image](https://github.com/user-attachments/assets/e754ced9-86eb-4d99-b3e8-8344d4f13f36)
+
+selanjutnya yaitu mencari letak endpoint yang terdapat login
+
+![image](https://github.com/user-attachments/assets/2e5731f6-760b-49ac-a13f-63d4842ba370)
+
+berikutnya yaitu mencari tools yang dipakai oleh attacker
+
+![image](https://github.com/user-attachments/assets/7f359ee9-d6ad-4f09-9f7d-96fee067d36f)
+
+dan yang terakhir yaitu mencar kredensial yang digunakan attacker untuk login
+
+![image](https://github.com/user-attachments/assets/5de190d0-a90d-4086-a797-9d4f9789680c)
+
+
+
 ### Corporate Breach
 
 ![list](https://cdn.discordapp.com/attachments/1286025745948475413/1286025793440452681/aa7c9576-e2f8-453c-95a1-6e7fd68c2cf2.png?ex=66ec685a&is=66eb16da&hm=2442887c9a09044efd042441d3341ee18b2bc62b72b55038786019cc75b55948&)
@@ -112,29 +136,5 @@ print(output)
 - Lalu muncul `hallo im Torako Koshi`
 
 
-
-
-
-1. ILEGAL BREAKTOUGH
-
-yang pertama yaitu mencari ip address dari korban 
-
-![image](https://github.com/user-attachments/assets/21c46481-2416-4482-9094-7ed2f10a13d1)
-
-selanjutnya yaitu port dari web server tersebut
-
-![image](https://github.com/user-attachments/assets/e754ced9-86eb-4d99-b3e8-8344d4f13f36)
-
-selanjutnya yaitu mencari letak endpoint yang terdapat login
-
-![image](https://github.com/user-attachments/assets/2e5731f6-760b-49ac-a13f-63d4842ba370)
-
-berikutnya yaitu mencari tools yang dipakai oleh attacker
-
-![image](https://github.com/user-attachments/assets/7f359ee9-d6ad-4f09-9f7d-96fee067d36f)
-
-dan yang terakhir yaitu mencar kredensial yang digunakan attacker untuk login
-
-![image](https://github.com/user-attachments/assets/5de190d0-a90d-4086-a797-9d4f9789680c)
 
 
