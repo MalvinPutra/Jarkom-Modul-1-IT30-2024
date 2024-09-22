@@ -135,6 +135,29 @@ print(output)
 ```
 - Lalu muncul `hallo im Torako Koshi`
 
+# REVISI
+
+### Advance Sanity Check
+
+![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287412500853428384/Screenshot_2024-09-21_232120.png?ex=66f173d3&is=66f02253&hm=62a9f3993f804241bfc363080969d86044f41c5358afd1a8b03121ac3976b507&)
+
+`Step Pengerjaan`
+
+- frame contains “username”.
+- frame containts “.txt”.
+- Di Clue3.txt ada kalimat untuk membuka PPT.
+- Saat melihat bagian Peraturan Soal Shift pada PPT terdapat sesuatu yang harus kita decode menggunakan base64.
+- Lalu input hasil Decodenya dan didapatkannya Flag.
+
+
+### Pegawai Negeri Sebelah
+
+![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287413633403457647/Screenshot_2024-09-21_232110.png?ex=66f174e1&is=66f02361&hm=4812e5d02cca549caa8f5692a01d8d296f46a0494f1f464d0e990bea3add9994&)
+
+`Step Pengerjaan`
+
+![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287414106579800124/image.png?ex=66f17552&is=66f023d2&hm=caa679e829d10d9a891a832c995e33ba1178cae732ea5b774f9e26c2150ab9df&)
+- Filter pertanyaan yang muncul pada soal didalam file diatas
 
 
 
