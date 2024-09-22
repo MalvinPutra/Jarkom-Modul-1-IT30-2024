@@ -8,28 +8,16 @@
 
 <hr>
 
-1. ILEGAL BREAKTOUGH
-
-yang pertama yaitu mencari ip address dari korban 
-
-![image](https://github.com/user-attachments/assets/21c46481-2416-4482-9094-7ed2f10a13d1)
-
-selanjutnya yaitu port dari web server tersebut
-
-![image](https://github.com/user-attachments/assets/e754ced9-86eb-4d99-b3e8-8344d4f13f36)
-
-selanjutnya yaitu mencari letak endpoint yang terdapat login
-
-![image](https://github.com/user-attachments/assets/2e5731f6-760b-49ac-a13f-63d4842ba370)
-
-berikutnya yaitu mencari tools yang dipakai oleh attacker
-
-![image](https://github.com/user-attachments/assets/7f359ee9-d6ad-4f09-9f7d-96fee067d36f)
-
-dan yang terakhir yaitu mencar kredensial yang digunakan attacker untuk login
+- ### ILEGAL BREAKTOUGH
 
 ![image](https://github.com/user-attachments/assets/5de190d0-a90d-4086-a797-9d4f9789680c)
 
+`step pengerjaan`
+
+![WhatsApp Image 2024-09-21 at 20 55 38_f47c1423](https://github.com/user-attachments/assets/79978061-6fc2-4a9e-bd74-14437e40ae25)
+
+- pertama difilter menggunakan ftp
+- dan disini terdapat informasi tentang ip address, port, letak endpoint yang terdapat login, tools yang dipakai, serta kredensial yang digunakan attacker untuk login
 
 
 ### Corporate Breach
@@ -190,5 +178,17 @@ print(output)
 
 - Filter 'ftp' dan disana akan ditemukan jawaban yang diperlukan
 
+- ### EZ
 
+  ![WhatsApp Image 2024-09-22 at 21 25 52_46262255](https://github.com/user-attachments/assets/8b8cb176-efc6-41e9-bf14-557c903a3bee)
+
+`Step Pengerjaan`
+
+![WhatsApp Image 2024-09-21 at 21 06 36_2aee96f3](https://github.com/user-attachments/assets/afb6573b-fe1a-4b8f-85f0-39d6ab065039)
+
+filter 'ftp' dan akan menemukan jawabannya
+
+![WhatsApp Image 2024-09-21 at 21 07 07_a7f8f49b](https://github.com/user-attachments/assets/0cefbcb2-3e7f-4ab2-ae23-a2ed8db519a5)
+
+dan disini terdapat informasi portnya
 
