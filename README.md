@@ -18,6 +18,7 @@
 
 - pertama difilter menggunakan ftp
 - dan disini terdapat informasi tentang ip address, port, letak endpoint yang terdapat login, tools yang dipakai, serta kredensial yang digunakan attacker untuk login
+- untuk username semuanya sama, jadi tinggal mencari passwordnya, nah untuk file yang lain ada kata username dan password salah, sedangkan file ini tidak ada kata tersebut, jadi kita bisa menemukan jawabannya
 
 
 ### Corporate Breach
