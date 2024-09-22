@@ -69,10 +69,31 @@ dan yang terakhir yaitu mencar kredensial yang digunakan attacker untuk login
 
 `Step Pengerjaan`
 
-- Pertama, pada saat page awal membuka WireShark pada plot pertama saya langsung menemukan DBMS, dan Port
-- Lalu saya mendapatkan OS dan usernamenya juga dari satu file yang sama
-- Pada tempat yang sama juga saya temukan nama database, jumlah user, email yang digunakan oleh admin dan juga password.
-- Untuk password saya harus menggunakan salah satu website untuk mengubahnya dari hash menjadi string
+### Informasi IP dan Port:
+- **IP Address**: 10.15.42.60
+- **Port**: 61000
+
+### Informasi DBMS:
+Berdasarkan hasil analisis file pcap, server pada IP tersebut menggunakan **PostgreSQL** sebagai sistem manajemen basis data (DBMS).
+
+### Detil Server:
+Dari paket yang memiliki panjang 560 byte, terungkap bahwa server berjalan di atas **sistem operasi Debian**. Ini mengindikasikan bahwa port **61000** digunakan oleh PostgreSQL.
+
+### Konfirmasi Sistem Operasi:
+Setelah analisis lebih lanjut, terkonfirmasi bahwa **Debian** memang digunakan sebagai sistem operasi pada server ini.
+
+### Informasi Database:
+- Username valid yang digunakan untuk mengakses DBMS adalah **s1gm4**.
+- Nama database yang digunakan adalah **sigmaskibidigyatrizzzz**.
+- Dalam database ini, terdapat empat pengguna aktif:
+  - Kevin
+  - Jojo
+  - Siska
+  - Kuntoaji
+
+### Informasi Admin:
+- **Email admin terdaftar**: jojohermawan@gmail.com
+- **Password admin**: admin1234 (password ini sudah di-hash untuk keamanan, tapi diketahui bahwa nilai aslinya adalah 'admin1234'). 
 
 
 ### 22 Nightmare
