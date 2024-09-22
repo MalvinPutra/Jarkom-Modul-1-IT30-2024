@@ -180,5 +180,15 @@ print(output)
 ![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287414106579800124/image.png?ex=66f17552&is=66f023d2&hm=caa679e829d10d9a891a832c995e33ba1178cae732ea5b774f9e26c2150ab9df&)
 - Filter pertanyaan yang muncul pada soal didalam file diatas
 
+- ### FTP Login
+
+![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287416676513742890/image.png?ex=66f177b6&is=66f02636&hm=b1ace0ab3f075bff2ddb68b2cdf56130deee5f5c8dad691828cce17828e7f492&)
+
+`Step Pengerjaan`
+
+![list](https://cdn.discordapp.com/attachments/1286025745948475413/1287416816733523989/Screenshot_2024-09-22_211327.png?ex=66f177d8&is=66f02658&hm=7051a86e74edccd13200b95886d40908d50014434dd393b9d80e92ddca77266b&)
+
+- Filter 'ftp' dan disana akan ditemukan jawaban yang diperlukan
+
 
 
